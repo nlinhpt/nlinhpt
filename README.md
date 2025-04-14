@@ -50,7 +50,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1787323/screenshots/7470213/media/d5a4462755c5c2e1bcb64440f6106b36.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>

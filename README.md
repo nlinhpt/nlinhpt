@@ -42,19 +42,26 @@
 ---
 
 ## 📊 Statistics & Activities:
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nlinhpt" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nlinhpt" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1787323/screenshots/7470213/media/d5a4462755c5c2e1bcb64440f6106b36.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width:80%; border-collapse: collapse; text-align: center;">
+    <tr>
+      <td style="width:50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <h3 style="color: #179fa3;">Top ngôn ngữ được dùng</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="Top ngôn ngữ được dùng" width="90%"/>
+      </td>
+      <td style="width:50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <h3 style="color: #179fa3;">Hoạt động trên GitHub</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="Hoạt động trên GitHub" width="90%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 10px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <h3 style="color: #179fa3;">Coding in Action</h3>
+        <img src="https://cdn.dribbble.com/users/1787323/screenshots/7470213/media/d5a4462755c5c2e1bcb64440f6106b36.gif" alt="Coding in Action" width="50%" style="border-radius: 10px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

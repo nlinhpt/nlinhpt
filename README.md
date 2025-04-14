@@ -65,14 +65,7 @@
 
 ---
 
-## 🎯 Activities:
-<div align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-learning-back-to-school-flaticons-lineal-color-flat-icons.png" alt="Learning" title="Learning"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-coding-computer-science-flaticons-lineal-color-flat-icons.png" alt="Coding" title="Coding"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-research-university-flaticons-lineal-color-flat-icons.png" alt="Researching" title="Researching"/>
-  <img src="https://img.icons8.com/external-wanicon-flat-wanicon/100/000000/external-brain-education-wanicon-flat-wanicon.png" alt="Problem Solving" title="Problem Solving"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/100/000000/external-basketball-recreation-flat-flat-juicy-fish.png" alt="Playing Basketball" title="Playing Basketball"/>
-</div>
+
 
 ---
 

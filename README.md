@@ -6,30 +6,22 @@
 ---
 
 ## 📫 How to reach me:
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook" style="vertical-align: middle;"/>
-    <span style="font-size: 14px; color: #333;">Facebook</span>
+## 📫 How to reach me:
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank">
+    <img src="https://img.icons8.com/fluency/32/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>
-  <br/>
-  <a href="https://www.youtube.com/@noichao005" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" title="YouTube" style="vertical-align: middle;"/>
-    <span style="font-size: 14px; color: #333;">YouTube</span>
+  <a href="https://www.youtube.com/@noichao005" target="_blank">
+    <img src="https://img.icons8.com/fluency/32/youtube-play.png" alt="YouTube" title="YouTube"/>
   </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/>
-    <span style="font-size: 14px; color: #333;">LinkedIn</span>
+  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank">
+    <img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <br/>
-  <a href="https://instagram.com/nlinhpt" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram" style="vertical-align: middle;"/>
-    <span style="font-size: 14px; color: #333;">Instagram</span>
+  <a href="https://instagram.com/nlinhpt" target="_blank">
+    <img src="https://img.icons8.com/fluency/32/instagram-new.png" alt="Instagram" title="Instagram"/>
   </a>
-  <br/>
-  <a href="mailto:noichao_007@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" title="Email" style="vertical-align: middle;"/>
-    <span style="font-size: 14px; color: #333;">Email</span>
+  <a href="mailto:noichao_007@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/32/gmail.png" alt="Email" title="Email"/>
   </a>
 </div>
 

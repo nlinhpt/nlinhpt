@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm NgocLinh</h2>
-<p align="center">
-  <h3 align="center">✍ I'm a student at the University of Science, VNU-HCM.</h3>
+<h2 align="left">Hi 👋, I'm NgocLinh</h2>
+<p align="left">
+  <h3 align="left">✍ I'm a student at the University of Science, VNU-HCM.</h3>
 </p>
 
 ---

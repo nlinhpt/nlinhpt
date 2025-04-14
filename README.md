@@ -3,7 +3,7 @@
   <h3 align="center">
 </p>
 
-> ✍ I'm a
+> ✍ I'm a student at the University of Science, VNU-HCM. 
 
 <br />
 

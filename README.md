@@ -6,21 +6,30 @@
 ---
 
 ## 📫 How to reach me:
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/facebook-new.png" alt="Facebook" title="Facebook"/>
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" title="Facebook" style="vertical-align: middle;"/>
+    <span style="font-size: 14px; color: #333;">Facebook</span>
   </a>
-  <a href="https://www.youtube.com/@noichao005" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/youtube-play.png" alt="YouTube" title="YouTube"/>
+  <br/>
+  <a href="https://www.youtube.com/@noichao005" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" title="YouTube" style="vertical-align: middle;"/>
+    <span style="font-size: 14px; color: #333;">YouTube</span>
   </a>
-  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  <br/>
+  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/>
+    <span style="font-size: 14px; color: #333;">LinkedIn</span>
   </a>
-  <a href="https://instagram.com/nlinhpt" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" title="Instagram"/>
+  <br/>
+  <a href="https://instagram.com/nlinhpt" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram" style="vertical-align: middle;"/>
+    <span style="font-size: 14px; color: #333;">Instagram</span>
   </a>
-  <a href="mailto:noichao_007@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Email" title="Email"/>
+  <br/>
+  <a href="mailto:noichao_007@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" title="Email" style="vertical-align: middle;"/>
+    <span style="font-size: 14px; color: #333;">Email</span>
   </a>
 </div>
 

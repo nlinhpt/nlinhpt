@@ -41,39 +41,20 @@
 
 ---
 
-## 📊 Skills Proficiency:
-<div align="center">
-  <table>
-    <tr>
-      <th>Skill</th>
-      <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>⭐⭐⭐⭐⭐ (95%)</td>
-    </tr>
-    <tr>
-      <td>SQL (PostgreSQL, MySQL)</td>
-      <td>⭐⭐⭐⭐ (85%)</td>
-    </tr>
-    <tr>
-      <td>MongoDB</td>
-      <td>⭐⭐⭐ (75%)</td>
-    </tr>
-    <tr>
-      <td>Machine Learning</td>
-      <td>⭐⭐⭐ (70%)</td>
-    </tr>
-    <tr>
-      <td>Google Colab</td>
-      <td>⭐⭐⭐⭐ (80%)</td>
-    </tr>
-    <tr>
-      <td>Visual Studio Code</td>
-      <td>⭐⭐⭐⭐⭐ (90%)</td>
-    </tr>
-  </table>
-</div>
+## 📊 Statistics & Activities:
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nlinhpt" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nlinhpt" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

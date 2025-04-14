@@ -4,10 +4,8 @@
 </p>
 
 ---
-
 ## 📫 How to reach me:
-## 📫 How to reach me:
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank">
     <img src="https://img.icons8.com/fluency/32/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>

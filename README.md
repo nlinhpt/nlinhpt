@@ -43,11 +43,11 @@
 
 ## 🎯 Activities:
 <div align="center">
-  <img src="https://img.icons8.com/emoji/100/000000/open-book.png" alt="Learning" title="Learning"/>
-  <img src="https://img.icons8.com/emoji/100/000000/computer.png" alt="Coding" title="Coding"/>
-  <img src="https://img.icons8.com/emoji/100/000000/memo.png" alt="Researching" title="Researching"/>
-  <img src="https://img.icons8.com/emoji/100/000000/brain.png" alt="Problem Solving" title="Problem Solving"/>
-  <img src="https://img.icons8.com/emoji/100/000000/basketball.png" alt="Playing Basketball" title="Playing Basketball"/>
+  <img src="https://img.icons8.com/color/100/000000/open-book.png" alt="Learning" title="Learning"/>
+  <img src="https://img.icons8.com/color/100/000000/keyboard.png" alt="Coding" title="Coding"/>
+  <img src="https://img.icons8.com/color/100/000000/research.png" alt="Researching" title="Researching"/>
+  <img src="https://img.icons8.com/color/100/000000/brain.png" alt="Problem Solving" title="Problem Solving"/>
+  <img src="https://img.icons8.com/color/100/000000/basketball.png" alt="Playing Basketball" title="Playing Basketball"/>
 </div>
 
 ---

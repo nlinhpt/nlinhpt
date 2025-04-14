@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nlinhpt-facebook" />
   </a>
-  <a href="https://youtube.com/@nlinhpt" target="blank">
+  <a href="https://www.youtube.com/@noichao005" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nlinhpt-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/nlinhpt" target="blank">
@@ -23,7 +23,7 @@
   <a href="https://instagram.com/nlinhpt" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nlinhpt-instagram" />
   </a>
-  <a href="mailto:nlinhpt.official@gmail.com" target="top">
+  <a href="mailto:noichao_007@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nlinhpt-email" />
   </a>
 </div>

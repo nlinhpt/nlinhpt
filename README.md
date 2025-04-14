@@ -8,19 +8,19 @@
 ## 📫 How to reach me:
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nlinhpt-facebook" />
+    <img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="nlinhpt-facebook" />
   </a>
   <a href="https://www.youtube.com/@noichao005" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nlinhpt-youtube" />
+    <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="nlinhpt-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/nlinhpt" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nlinhpt-linkedin" />
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="nlinhpt-linkedin" />
   </a>
   <a href="https://instagram.com/nlinhpt" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nlinhpt-instagram" />
+    <img src="https://img.icons8.com/clouds/100/000000/instagram-new.png" alt="nlinhpt-instagram" />
   </a>
   <a href="mailto:noichao_007@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nlinhpt-email" />
+    <img src="https://img.icons8.com/clouds/100/000000/email.png" alt="nlinhpt-email" />
   </a>
 </div>
 
@@ -41,13 +41,49 @@
 
 ---
 
+## 📊 Skills Proficiency:
+<div align="center">
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th>Proficiency</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>⭐⭐⭐⭐⭐ (95%)</td>
+    </tr>
+    <tr>
+      <td>SQL (PostgreSQL, MySQL)</td>
+      <td>⭐⭐⭐⭐ (85%)</td>
+    </tr>
+    <tr>
+      <td>MongoDB</td>
+      <td>⭐⭐⭐ (75%)</td>
+    </tr>
+    <tr>
+      <td>Machine Learning</td>
+      <td>⭐⭐⭐ (70%)</td>
+    </tr>
+    <tr>
+      <td>Google Colab</td>
+      <td>⭐⭐⭐⭐ (80%)</td>
+    </tr>
+    <tr>
+      <td>Visual Studio Code</td>
+      <td>⭐⭐⭐⭐⭐ (90%)</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎯 Activities:
 <div align="center">
-  <img src="https://img.icons8.com/color/100/000000/open-book.png" alt="Learning" title="Learning"/>
-  <img src="https://img.icons8.com/color/100/000000/keyboard.png" alt="Coding" title="Coding"/>
-  <img src="https://img.icons8.com/color/100/000000/research.png" alt="Researching" title="Researching"/>
-  <img src="https://img.icons8.com/color/100/000000/brain.png" alt="Problem Solving" title="Problem Solving"/>
-  <img src="https://img.icons8.com/color/100/000000/basketball.png" alt="Playing Basketball" title="Playing Basketball"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-learning-back-to-school-flaticons-lineal-color-flat-icons.png" alt="Learning" title="Learning"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-coding-computer-science-flaticons-lineal-color-flat-icons.png" alt="Coding" title="Coding"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-research-university-flaticons-lineal-color-flat-icons.png" alt="Researching" title="Researching"/>
+  <img src="https://img.icons8.com/external-wanicon-flat-wanicon/100/000000/external-brain-education-wanicon-flat-wanicon.png" alt="Problem Solving" title="Problem Solving"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/100/000000/external-basketball-recreation-flat-flat-juicy-fish.png" alt="Playing Basketball" title="Playing Basketball"/>
 </div>
 
 ---

@@ -7,20 +7,20 @@
 
 ## 📫 How to reach me:
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/facebook-new.png" alt="nlinhpt-facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/facebook-new.png" alt="Facebook" title="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/@noichao005" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/youtube.png" alt="nlinhpt-youtube" />
+  <a href="https://www.youtube.com/@noichao005" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/youtube-play.png" alt="YouTube" title="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/nlinhpt" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="nlinhpt-linkedin" />
+  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/nlinhpt" target="blank">
-    <img src="https://img.icons8.com/clouds/100/000000/instagram-new.png" alt="nlinhpt-instagram" />
+  <a href="https://instagram.com/nlinhpt" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" title="Instagram"/>
   </a>
-  <a href="mailto:noichao_007@gmail.com" target="top">
-    <img src="https://img.icons8.com/clouds/100/000000/email.png" alt="nlinhpt-email" />
+  <a href="mailto:noichao_007@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Email" title="Email"/>
   </a>
 </div>
 

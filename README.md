@@ -12,10 +12,10 @@
   <a href="https://www.youtube.com/@noichao005" target="_blank">
     <img src="https://img.icons8.com/fluency/32/youtube-play.png" alt="YouTube" title="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/nlinhpt" target="_blank">
+  <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-linh-phan-th%E1%BB%8B-a07246352" target="_blank">
     <img src="https://img.icons8.com/fluency/32/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/nlinhpt" target="_blank">
+  <a href="https://instagram.com/n_nlyh" target="_blank">
     <img src="https://img.icons8.com/fluency/32/instagram-new.png" alt="Instagram" title="Instagram"/>
   </a>
   <a href="mailto:noichao_007@gmail.com" target="_blank">

@@ -44,9 +44,15 @@
 <div align="center">
   <table style="width:80%; border-collapse: collapse; text-align: center;">
     <tr>
-      <td style="width:50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; border: 1px solid #ddd;">
-        <h3 style="color: #179fa3;">Top ngôn ngữ được dùng</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="Top ngôn ngữ được dùng" width="90%"/>
+<td style="width:50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; border: 1px solid #ddd;">
+  <h3 style="color: #179fa3;">Top Used Languages</h3>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=donut&theme=material-palenight&hide=css&langs_count=6" 
+    alt="Top Used Languages" 
+    width="90%" 
+  />
+</td>
+
       </td>
       <td style="width:50%; padding: 10px; vertical-align: top; background-color: #f9f9f9; border: 1px solid #ddd;">
         <h3 style="color: #179fa3;">Hoạt động trên GitHub</h3>

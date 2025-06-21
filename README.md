@@ -28,7 +28,7 @@
 ## 🛠 Skills:
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/letter-r.png" alt="R"/>
+  <img src="https://techicons.dev/icons/rstudio.svg" alt="RStudio" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>

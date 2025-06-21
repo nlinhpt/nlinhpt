@@ -28,6 +28,7 @@
 ## 🛠 Skills:
 
 <p align="center">
+  <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="RStudio" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
@@ -37,6 +38,7 @@
   <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="48" height="48" alt="Kaggle"/>
   <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
+  
 </p>
 
 ---

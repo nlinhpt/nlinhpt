@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋, I'm NgocLinh</h2>
 <h3 align="left">✍ I'm a student at the University of Science, VNU-HCM.</h3>
 
+I'm really passionate about digging into data and figuring out what it's actually telling us. I believe good decisions come from analyzing and validating data with solid statistical methods—not just going with your gut feeling.  
+I love exploring new techniques in machine learning and data science, and I'm always up for a chat about Python, SQL, or anything tech-related!
+
 ---
 
 ### 📫 How to reach me:
@@ -66,13 +69,5 @@
 
 ---
 
-## 🌟 Highlights:
-
-- 🔭 Currently working on **Machine Learning Projects**  
-- 🌱 Exploring **Deep Learning** and **Data Science**  
-- 🤝 Open to collaboration on interesting projects and research  
-- 💬 Ask me about Python, SQL, or anything tech-related  
-
----
 
 <p align="center">✨ Thank you for visiting my GitHub profile! ✨</p>

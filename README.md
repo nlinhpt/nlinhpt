@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋, I'm NgocLinh</h2>
 <h3 align="left">✍ I'm a student at the University of Science, VNU-HCM.</h3>
 
-I'm really passionate about digging into data and figuring out what it's actually telling us. I believe good decisions come from analyzing and validating data with solid statistical methods-not just going with your gut feeling.  
-I love exploring new techniques in machine learning and data science, and I'm always up for a chat about Python, SQL, or anything tech-related!
+I'm really passionate about digging into data and figuring out what it's actually telling us. I believe good decisions come from analyzing and validating data with solid statistical methods not just going with your gut feeling.  
 
 ---
 
@@ -12,7 +11,7 @@ I love exploring new techniques in machine learning and data science, and I'm al
   <a href="https://www.facebook.com/profile.php?id=100030448200454&locale=vi_VN" target="_blank">
     <img src="https://img.icons8.com/fluency/32/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/@noichao005" target="_blank">
+  <a href="https://www.youtube.com/@noichao007" target="_blank">
     <img src="https://img.icons8.com/fluency/32/youtube-play.png" alt="YouTube"/>
   </a>
   <a href="https://www.linkedin.com/in/ng%E1%BB%8Dc-linh-phan-th%E1%BB%8B-a07246352" target="_blank">

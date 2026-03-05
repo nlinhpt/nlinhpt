@@ -45,10 +45,5 @@ I'm really passionate about digging into data and figuring out what it's actuall
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nlinhpt&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">✨ Thank you for visiting my GitHub profile! ✨</p>

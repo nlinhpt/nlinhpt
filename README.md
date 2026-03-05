@@ -51,8 +51,4 @@ I'm really passionate about digging into data and figuring out what it's actuall
 <img src="https://streak-stats.demolab.com?user=nlinhpt&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=nlinhpt&theme=tokyo-night&height=250)
-
 <p align="center">✨ Thank you for visiting my GitHub profile! ✨</p>

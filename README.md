@@ -45,28 +45,11 @@ I'm really passionate about digging into data and figuring out what it's actuall
 
 ---
 
-## 📊 Statistics & Activities:
+## 📊 GitHub Stats
 
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="50%" style="background-color: #f9f9f9;">
-      <h3 style="color:#179fa3;">Top Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=compact&theme=material-palenight&hide=css&langs_count=6" alt="Top Languages" width="90%">
-    </td>
-    <td align="center" width="50%" style="background-color: #f9f9f9;">
-      <h3 style="color:#179fa3;">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="90%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="background-color: #f9f9f9;">
-      <h3 style="color:#179fa3;">Coding in Action</h3>
-      <img src="https://cdn.dribbble.com/users/1787323/screenshots/7470213/media/d5a4462755c5c2e1bcb64440f6106b36.gif" alt="Coding in Action" width="40%" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
-
----
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&show_icons=true&theme=material-palenight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=compact&theme=material-palenight" height="170"/>
+</p>
 
 <p align="center">✨ Thank you for visiting my GitHub profile! ✨</p>

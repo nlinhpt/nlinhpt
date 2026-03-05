@@ -45,12 +45,15 @@ I'm really passionate about digging into data and figuring out what it's actuall
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nlinhpt&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=compact&theme=tokyonight)
+## 📈 Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=nlinhpt&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nlinhpt&theme=tokyo-night&height=250)
 
 <p align="center">✨ Thank you for visiting my GitHub profile! ✨</p>

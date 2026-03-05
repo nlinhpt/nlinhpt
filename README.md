@@ -45,11 +45,10 @@ I'm really passionate about digging into data and figuring out what it's actuall
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nlinhpt&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlinhpt&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
+<img src="https://streak-stats.demolab.com?user=nlinhpt&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Activity
